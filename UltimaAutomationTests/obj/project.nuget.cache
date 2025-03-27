@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0QftvPNyRp8=",
+  "dgSpecHash": "2g58wSKMFGE=",
   "success": true,
   "projectFilePath": "C:\\Users\\KAVIN\\source\\repos\\UltimaAutomationTests\\UltimaAutomationTests\\UltimaAutomationTests.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.playwright\\1.50.0\\microsoft.playwright.1.50.0.nupkg.sha512",
+    "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.playwright\\1.51.0\\microsoft.playwright.1.51.0.nupkg.sha512",
     "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
     "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
     "C:\\Users\\KAVIN\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",

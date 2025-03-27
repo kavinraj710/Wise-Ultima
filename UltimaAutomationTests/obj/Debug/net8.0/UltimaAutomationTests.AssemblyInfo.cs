@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UltimaAutomationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+057feea5b21d1cfeaafc69f9aa4521c3b5e4d4b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c084834dbd5c42b5282834981b93d304a8a51a62")]
 [assembly: System.Reflection.AssemblyProductAttribute("UltimaAutomationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UltimaAutomationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
